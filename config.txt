@@ -1,6 +1,6 @@
-token=NTI4MTY1MTQ3MDY4MzM0MDgw.DweTuw.CPl0ZJxvsOz4VDgGakm1CK0CbDk
-owner=454421822478352416 
-prefix=3
-game=Zemix Community
-stayinchannel=true
-songinstatus=true
+token=NTU0MDc2ODkwMTMwOTM5OTQ0.D2XX_Q.xAcZpxIzzC5Ms0vC4y-vegoXoEc
+owner=354283625824387073
+prefix=M
+game=Vámpire, Server
+stayinchannel=false
+songinstatus=false
